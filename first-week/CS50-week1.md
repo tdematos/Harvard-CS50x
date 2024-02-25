@@ -30,7 +30,7 @@ Uses 8 but to represent the letter
 
 256 total characters to use in ascii
 
-==128 **|** 64 **|** 32 **|** 16 **|** 8 **|** 4 **|** 2 **|** 1==
+<mark>128 **|** 64 **|** 32 **|** 16 **|** 8 **|** 4 **|** 2 **|** 1</mark>
 
 We use **Unicode** instead of ascii
 
